@@ -1,0 +1,7 @@
+# For audio.py > pydub : Install ffmpeg
+
+sudo apt-get install ffmpeg libavcodec-extra
+
+# Reference
+# https://github.com/jiaaro/pydub
+# http://www.ffmpeg.org/download.html
